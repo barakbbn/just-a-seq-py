@@ -1,0 +1,13 @@
+[project]
+name = "just-a-seq-py"
+version = "0.1.0"
+description = "Python generator sequence/collection with fluent api (Like LINQ) that resemble Python list & itertools"
+authors = [{ name = "barakbbn", email = "barakbbn@gmail.com" }]
+dependencies = []
+requires-python = ">=3.10,<3.11"
+readme = "README.md"
+license = "Unlicense"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
